@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
-# About
 
 Weekend Theologian is written for people who love Scripture but feel overwhelmed by theological systems, debates, and labels.
 
