@@ -23,5 +23,3 @@ Ch.1 Takeaways
 - The Bible itself provides the framework—if we let it speak first
 
 Chapter 1 reminds us that theology becomes clear not when we master systems, but when we learn to follow the Bible’s story from beginning to end.
-
-[Home](index.md) • [About](about.md) • [Writing](writing.md) • [Reading](reading.md)
