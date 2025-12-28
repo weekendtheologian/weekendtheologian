@@ -12,5 +12,3 @@ title: Writing
 - A guided reading path for understanding God’s promises
 
 More essays will be added slowly.
-
-[Home](index.md) • [About](about.md) • [Writing](writing.md) • [Reading](reading.md)
