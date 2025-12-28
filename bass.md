@@ -1,3 +1,7 @@
+---
+layout: page
+title: Bass
+---
 # Bass
 
 I play bass. Noob level. 
