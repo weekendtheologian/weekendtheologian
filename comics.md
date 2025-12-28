@@ -1,3 +1,7 @@
+---
+layout: page
+title: Comics
+---
 # Comics
 
 I love comics and graphic novels.
