@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Writing
+permalink: /writing/
 ---
-# Writing
 
 ## Foundational Essays
 - Why Theology Feels Confusing (and Why It Doesn’t Have to Be)
